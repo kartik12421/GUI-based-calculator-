@@ -1,4 +1,4 @@
-mport tkinter as tk
+import tkinter as tk
 
 def click(event):
     text = event.widget.cget("text")
