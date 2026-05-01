@@ -1,1 +1,3 @@
 GUI base Calculator using Python...
+
+Use it freely
